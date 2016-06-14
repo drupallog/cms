@@ -26,6 +26,8 @@
 !bin/console
 !bin/symfony_requirements
 /vendor/
+/.idea/
+/nbproject/
 
 # Assets and user uploads
 /web/bundles/
